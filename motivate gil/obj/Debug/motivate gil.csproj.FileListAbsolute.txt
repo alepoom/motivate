@@ -1,0 +1,8 @@
+C:\Users\Lab-01\Documents\SharpDevelop Projects\motivate gil\motivate gil\bin\Debug\motivate gil.exe.config
+C:\Users\Lab-01\Documents\SharpDevelop Projects\motivate gil\motivate gil\bin\Debug\motivate gil.exe
+C:\Users\Lab-01\Documents\SharpDevelop Projects\motivate gil\motivate gil\bin\Debug\motivate gil.pdb
+C:\Users\Lab-01\Documents\SharpDevelop Projects\motivate gil\motivate gil\obj\Debug\motivate gil.csprojResolveAssemblyReference.cache
+C:\Users\Lab-01\Documents\SharpDevelop Projects\motivate gil\motivate gil\obj\Debug\motivate_gil.MainForm.resources
+C:\Users\Lab-01\Documents\SharpDevelop Projects\motivate gil\motivate gil\obj\Debug\motivate gil.csproj.GenerateResource.Cache
+C:\Users\Lab-01\Documents\SharpDevelop Projects\motivate gil\motivate gil\obj\Debug\motivate gil.exe
+C:\Users\Lab-01\Documents\SharpDevelop Projects\motivate gil\motivate gil\obj\Debug\motivate gil.pdb
